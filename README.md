@@ -1,16 +1,21 @@
-## Hi there 👋
+## Daniel Kłodowski
 
-<!--
-**daniel-klo/daniel-klo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Econometrics student at AGH University of Science and Technology in Kraków.
 
-Here are some ideas to get you started:
+Since an early age, I have been deeply interested in economics and business. One of my main passions is exploring the world of finance and the stock markets. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scipy
+- Streamlit
+- SQL (Microsoft SQL Server)
+- R
+
+## 📂 Projects
+Check out my GitHub repositories below
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-kłodowski)
