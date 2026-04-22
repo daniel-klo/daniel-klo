@@ -25,4 +25,4 @@ Since an early age, I have been interested in economics and business, with a str
 Check out my GitHub repositories below.
 
 ### My profile
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-kłodowski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kłodowski)
